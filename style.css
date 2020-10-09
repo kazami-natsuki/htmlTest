@@ -1,0 +1,20 @@
+table {
+    float: left;
+}
+
+table th {
+    color: white;
+    background-color: black;
+}
+
+table td {
+    color: white;
+    background-color: gray;
+}
+
+.explain_box {
+    color: black;
+    background-color: gray;
+    width: 150px;
+    float: left;
+}
